@@ -414,8 +414,7 @@ figure.snip0004 {
   margin-top: 200px;
   overflow: hidden;
   margin: 10px;
-  width: 220px;
-  width: 310px;
+  max-width: 285px;
   height: 220px;
   background: #000000;
   display: inline-flex;
